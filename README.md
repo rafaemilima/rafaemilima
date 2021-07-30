@@ -17,7 +17,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Rafa-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-   <img align="right" alt="Rafa-Cplusplus" height="150" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif">
+   <img align="right" alt="Rafa-Cplusplus" height="150" src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif">
 </div>
   
 ##
