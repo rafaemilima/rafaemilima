@@ -1,9 +1,9 @@
 ### Hello world, I'm Rafael Emílio! 👽
 
-* 🔭 I'm currenctly working at personal and college projects.
-* 🌱 I’m currently learning web development.
+* 🔭 I'm currenctly working at personal and academic projects.
+* 🌱 I’m learning web development and data science.
 * 📫 You can reach me through my e-mails: rela@ic.ufal.br / rafaelemiliolima71@gmail.com
-* ⚡ Fun fact: I write poetry and tales!
+* ⚡ Fun fact: I'm also a writer!
 
 ##
 
