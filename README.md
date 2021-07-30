@@ -31,9 +31,11 @@
   <a href="https://www.linkedin.com/in/rafael-em%C3%ADlio-lima-alves-aa9a2320b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=light" target="_blank"></a> 
   <a href = "mailto:rela@ic.ufal.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/rafael_emilio_lima/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
 
 ![Snake animation](https://github.com/rafaemilima/rafaemilima/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+
  <!-- 
 * 🔭 I'm currenctly working at personal and college projects.
 * 🌱 I’m currently learning web development.
