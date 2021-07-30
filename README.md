@@ -2,7 +2,6 @@
 
 * 🔭 I'm currenctly working at personal and college projects.
 * 🌱 I’m currently learning web development.
-* 💬 Ask me about anything.
 * 📫 You can reach me through my e-mails: rela@ic.ufal.br / rafaelemiliolima71@gmail.com
 * ⚡ Fun fact: I write poetry and tales!
 
