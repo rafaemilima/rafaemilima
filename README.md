@@ -2,7 +2,7 @@
 
 * 🔭 I'm currenctly working at personal and academic projects.
 * 🌱 I’m learning web development and data science.
-* 📫 You can reach me through my e-mails: rela@ic.ufal.br / rafaelemiliolima71@gmail.com
+* 📫 You can reach me through my e-mail: rela@ic.ufal.br
 * ⚡ Fun fact: I'm also a writer!
 
 ##
