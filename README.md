@@ -1,7 +1,7 @@
 ### Hello world, I'm Rafael Emílio! 👽
 
-* 🔭 I'm currenctly working at personal and academic projects.
-* 🌱 I’m learning web development and data science.
+* 🔭 Currently working at personal and academic projects.
+* 🌱 Learning Machine Learning and NLP.
 * 📫 You can reach me through my e-mail: rela@ic.ufal.br
 * ⚡ Fun fact: I'm also a writer!
 
